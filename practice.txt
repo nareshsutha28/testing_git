@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 4.hello, i am Naresh.
 5.How are you, i want to do work.
 6.Go to hell and fill
+=======
+1. hello, i am Naresh.
+2.How are you, i want to do work.
+3.Go to hell and fill.
+>>>>>>> branch2
